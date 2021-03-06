@@ -4,7 +4,7 @@ const Connexion = () => {
 
     return (
         <>
-          <p>Hello World !</p>
+          <p>Hello Worlds !</p>
         </>
     )
 }
